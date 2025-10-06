@@ -1,18 +1,6 @@
 #  Análise Bibliográfica e Fluxograma PRISMA em Python
 
-Este projeto automatiza a **busca, triagem e visualização de artigos científicos** relacionados a violência juvenil e programas para jovens, usando Python. Ele inclui a geração de métricas de avaliação (precision, recall, F1) e a criação de um **fluxograma PRISMA**.
-
----
-
-## 🛠 Tecnologias usadas
-
-- **Python 3.x**
-- Pacotes:
-  - `pandas` → manipulação de dados
-  - `numpy` → cálculos numéricos
-  - `matplotlib` → geração de fluxograma PRISMA
-  - `seaborn` → visualizações (opcional)
-- Jupyter Notebook (para execução interativa)
+Este projeto automatiza a **busca, triagem e visualização de artigos científicos** seguindo uma Revisão Sistemática de Literatura, usando Python. Ele inclui a geração de métricas de avaliação (precision, recall, F1) e a criação de um **fluxograma PRISMA**.
 
 ---
 
